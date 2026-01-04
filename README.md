@@ -84,7 +84,7 @@ If you find this work useful in your research, please cite:
 ```bibtex
 @inproceedings{haodp2026sagin,
   title={Joint Task Offloading and Resource Orchestration in 6G SAGINs: A Hybrid Quantum-Inspired Meta-Heuristic Approach},
-  author={Your Name and Collaborators},
+  author={Phuc Hao Do},
   booktitle={2026 IEEE 11th International Conference on Communications and Electronics (ICCE)},
   year={2026}
 }
